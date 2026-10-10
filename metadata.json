@@ -1,0 +1,6 @@
+{
+  "name": "Onco Agent",
+  "description": "Precision Oncology Clinical Decision Support and Molecular Tumor Board Agent integrating live ClinVar, ClinicalTrials.gov, PubMed, and genomic reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
